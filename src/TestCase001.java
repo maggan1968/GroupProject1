@@ -1,4 +1,4 @@
-public class Group_2_Practice {
+public class TestCase001 {
 
     //Hello Group 2
     //How are you?
