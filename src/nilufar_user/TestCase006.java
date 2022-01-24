@@ -8,6 +8,8 @@ public class TestCase006 {
 
     // step 1
 
+    //  Java is fun
+
 
 
 
