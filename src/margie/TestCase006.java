@@ -1,4 +1,4 @@
-package Margie;
+package margie;
 
 public class TestCase006 {
 
